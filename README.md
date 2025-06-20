@@ -23,13 +23,6 @@ A responsive frontend dashboard designed to visualize real-time system metrics, 
 
 ---
 
-## 📸 Screenshots
 
-> *(Add screenshots or screen recording GIFs of your dashboard UI here)*  
-> Example: `![Dashboard Screenshot](./assets/dashboard-preview.png)`
-
----
-
-## 📂 Project Structure
 
 
